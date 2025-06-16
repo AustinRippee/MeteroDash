@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MeteorDash
+</name>
+</assembly>
+<members>
+<member name="T:MeteorDash.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MeteorDash.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MeteorDash.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MeteorDash.My.Resources.Resources._0001">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MeteorDash.My.Resources.Resources._08ad61b612011dad5c3e220d1663cc28">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MeteorDash.My.Resources.Resources._1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MeteorDash.My.Resources.Resources._119498436179961113moon_charles_mccolm_01_svg_hi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MeteorDash.My.Resources.Resources.meteor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MeteorDash.My.Resources.Resources.spaceship">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

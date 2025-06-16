@@ -1,0 +1,46 @@
+\\gbcsstudents00\013333$\visual studio 2012\Projects\MeteorDash\MeteorDash\bin\Debug\MeteorDash.exe.config
+\\gbcsstudents00\013333$\visual studio 2012\Projects\MeteorDash\MeteorDash\bin\Debug\MeteorDash.exe
+\\gbcsstudents00\013333$\visual studio 2012\Projects\MeteorDash\MeteorDash\bin\Debug\MeteorDash.pdb
+\\gbcsstudents00\013333$\visual studio 2012\Projects\MeteorDash\MeteorDash\bin\Debug\MeteorDash.xml
+\\gbcsstudents00\013333$\visual studio 2012\Projects\MeteorDash\MeteorDash\obj\Debug\MeteorDash.Form1.resources
+\\gbcsstudents00\013333$\visual studio 2012\Projects\MeteorDash\MeteorDash\obj\Debug\MeteorDash.Resources.resources
+\\gbcsstudents00\013333$\visual studio 2012\Projects\MeteorDash\MeteorDash\obj\Debug\MeteorDash.vbproj.GenerateResource.Cache
+\\gbcsstudents00\013333$\visual studio 2012\Projects\MeteorDash\MeteorDash\obj\Debug\MeteorDash.exe
+\\gbcsstudents00\013333$\visual studio 2012\Projects\MeteorDash\MeteorDash\obj\Debug\MeteorDash.xml
+\\gbcsstudents00\013333$\visual studio 2012\Projects\MeteorDash\MeteorDash\obj\Debug\MeteorDash.pdb
+C:\Users\Austin\Desktop\MeteorDash\bin\Debug\MeteorDash.exe.config
+C:\Users\Austin\Desktop\MeteorDash\bin\Debug\MeteorDash.exe
+C:\Users\Austin\Desktop\MeteorDash\bin\Debug\MeteorDash.pdb
+C:\Users\Austin\Desktop\MeteorDash\bin\Debug\MeteorDash.xml
+C:\Users\Austin\Desktop\MeteorDash\obj\Debug\MeteorDash.vbprojAssemblyReference.cache
+C:\Users\Austin\Desktop\MeteorDash\obj\Debug\MeteorDash.Form1.resources
+C:\Users\Austin\Desktop\MeteorDash\obj\Debug\MeteorDash.Resources.resources
+C:\Users\Austin\Desktop\MeteorDash\obj\Debug\MeteorDash.vbproj.GenerateResource.cache
+C:\Users\Austin\Desktop\MeteorDash\obj\Debug\MeteorDash.vbproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\MeteorDash\obj\Debug\MeteorDash.exe
+C:\Users\Austin\Desktop\MeteorDash\obj\Debug\MeteorDash.xml
+C:\Users\Austin\Desktop\MeteorDash\obj\Debug\MeteorDash.pdb
+C:\Users\Austin\Desktop\Meteor Dash by Austin Rippee\MeteorDash\bin\Debug\MeteorDash.exe.config
+C:\Users\Austin\Desktop\Meteor Dash by Austin Rippee\MeteorDash\bin\Debug\MeteorDash.exe
+C:\Users\Austin\Desktop\Meteor Dash by Austin Rippee\MeteorDash\bin\Debug\MeteorDash.pdb
+C:\Users\Austin\Desktop\Meteor Dash by Austin Rippee\MeteorDash\bin\Debug\MeteorDash.xml
+C:\Users\Austin\Desktop\Meteor Dash by Austin Rippee\MeteorDash\obj\Debug\MeteorDash.vbprojAssemblyReference.cache
+C:\Users\Austin\Desktop\Meteor Dash by Austin Rippee\MeteorDash\obj\Debug\MeteorDash.Form1.resources
+C:\Users\Austin\Desktop\Meteor Dash by Austin Rippee\MeteorDash\obj\Debug\MeteorDash.Resources.resources
+C:\Users\Austin\Desktop\Meteor Dash by Austin Rippee\MeteorDash\obj\Debug\MeteorDash.vbproj.GenerateResource.cache
+C:\Users\Austin\Desktop\Meteor Dash by Austin Rippee\MeteorDash\obj\Debug\MeteorDash.vbproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\Meteor Dash by Austin Rippee\MeteorDash\obj\Debug\MeteorDash.exe
+C:\Users\Austin\Desktop\Meteor Dash by Austin Rippee\MeteorDash\obj\Debug\MeteorDash.xml
+C:\Users\Austin\Desktop\Meteor Dash by Austin Rippee\MeteorDash\obj\Debug\MeteorDash.pdb
+G:\My Drive\Education & Work\School\Meteor Dash by Austin Rippee\MeteorDash\bin\Debug\MeteorDash.exe.config
+G:\My Drive\Education & Work\School\Meteor Dash by Austin Rippee\MeteorDash\bin\Debug\MeteorDash.exe
+G:\My Drive\Education & Work\School\Meteor Dash by Austin Rippee\MeteorDash\bin\Debug\MeteorDash.pdb
+G:\My Drive\Education & Work\School\Meteor Dash by Austin Rippee\MeteorDash\bin\Debug\MeteorDash.xml
+G:\My Drive\Education & Work\School\Meteor Dash by Austin Rippee\MeteorDash\obj\Debug\MeteorDash.vbproj.AssemblyReference.cache
+G:\My Drive\Education & Work\School\Meteor Dash by Austin Rippee\MeteorDash\obj\Debug\MeteorDash.Form1.resources
+G:\My Drive\Education & Work\School\Meteor Dash by Austin Rippee\MeteorDash\obj\Debug\MeteorDash.Resources.resources
+G:\My Drive\Education & Work\School\Meteor Dash by Austin Rippee\MeteorDash\obj\Debug\MeteorDash.vbproj.GenerateResource.cache
+G:\My Drive\Education & Work\School\Meteor Dash by Austin Rippee\MeteorDash\obj\Debug\MeteorDash.vbproj.CoreCompileInputs.cache
+G:\My Drive\Education & Work\School\Meteor Dash by Austin Rippee\MeteorDash\obj\Debug\MeteorDash.exe
+G:\My Drive\Education & Work\School\Meteor Dash by Austin Rippee\MeteorDash\obj\Debug\MeteorDash.xml
+G:\My Drive\Education & Work\School\Meteor Dash by Austin Rippee\MeteorDash\obj\Debug\MeteorDash.pdb
